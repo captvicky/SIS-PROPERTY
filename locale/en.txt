@@ -1,0 +1,90 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Manage by SIS Property
+
+### Title
+tour.name = ARCO GREEN PARK
+
+## Skin
+
+### Button
+Button_CD49949C_C062_142D_41C7_37601EB107DE.label = Tentang Arco Green Park
+Button_CD4A949D_C062_142F_41B1_8B0F89C607E7.label = Siteplan
+Button_CD4AD49D_C062_142F_41E6_41B37E91CCDD.label = Tipe Rumah
+Button_CD4AF49D_C062_142F_41E6_D3B8671394A3.label = Location
+Button_CD4AF49D_C062_142F_41E6_D3B8671394A3.pressedLabel = Location
+Button_CD4B049D_C062_142F_41CE_360F654B23E1.label = Hubungi Pemasaran
+Button_CD4B449D_C062_142F_41C3_636C7016AFEA.label = Official Website
+Button_D13BA41F_C066_142C_41CF_0AA436D5A6C8.label = Menuju Lokasi
+Button_DC48CD8B_C2BD_2CEF_41CB_DA0FD1EAEF88.label = Official Website
+
+### Multiline Text
+HTMLText_CD4A149E_C062_142D_41E1_8DD496294E81.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>PT. Sedaya Indah Selaras</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Ruko Serpong Green Park 2</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>jl. Mesjid Kel Ciater, Kec. Serpong.</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tangerang Selatan 15229 Indonesia.</I></SPAN></SPAN></DIV></div>
+HTMLText_D134541F_C066_142C_41E5_B322AEA9AC00.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.199999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:'Otama.ep';">ARCO</SPAN></SPAN></DIV></div>
+HTMLText_D134741F_C066_142C_41CA_1928FBCB4A98.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.918032786885247vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Otama.ep';"><B>GREEN PARK</B></SPAN></SPAN></DIV></div>
+HTMLText_D13B941F_C066_142C_41C1_723E86152175.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.72vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:2.72vh;font-family:'Antonio';"><B>Hunian yang Strategis, nyaman, hijau dan asri dengan harga terjangkau. Berada dilahan seluas 2Ha, dengan total rumah 156 unit</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.02vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.74vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';"> Citayam, Tajur Halang, Bogor, Jawa Barat 16320 Jawa Barat Indonesia</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_D5C22BDA_C0A6_7C35_41D1_A86E3E700BEC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.91vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:'Oswald';"><B>OFFICIAL WEBSITE</B></SPAN></SPAN></DIV></div>
+HTMLText_DC48DD8A_C2BD_2CE9_41E8_0BA6524BB66E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>ARCO GREEN PARK</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.96vh;font-family:'Montserrat';"><B>Arco Green Park</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.9599999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.96vh;font-family:'Montserrat';"><B>Developed By : PT. Sedaya Indah Selaras</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">Setelah sukses dengan Proyek sebelumnya :</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">Puri Laras 1, lokasi Ciputat-Tangsel</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">Puri Laras 2, Lokasi Ciputat-Tangsel</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">Grand Puri Laras, Lokasi Ciputat-Tangsel</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">Serpong Green Park, Lokasi Serpong-Tangsel</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">Serpong Green Park 2, Lokasi Serpong-Tangsel</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">Pinang Green Residence, Lokasi Pamulang-Tangsel</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">kini PT. Sedaya Indah Selaras mempersembahkan</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">Arco Green Park</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">Hunian yang strategis, nyaman, hijau dan asri dengan harga terjangkau.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">Berada dilahan seluas 2 Ha, dengan total rumah 156 unit,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">3 unit kios, dikembangkan dengan konsep hunian yang asri</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">yang akan membuat Anda betah dirumah.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">Terdiri dari rumah 1 lantai dan 2 lantai dengan 4 pilihan</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">Tipe rumah yang bisa Anda pilih sesuai kebutuhan Anda.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">Jadilah bagian dari keluarga besar Arco Green Park,</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.530054644808743vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;font-family:'Roboto';">Kepuasan Anda adalah prioritas kami.</SPAN></SPAN></DIV></div>
+HTMLText_FC3937DE_C3E3_1C66_41D8_797895FCF141.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;"><B>Tanyakan saja Via Whatsapp</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;">Kami disini untuk membantu anda, Silahkan chat team kami</SPAN></DIV></div>
+
+### Label
+Label_D0877E77_C066_14FC_41D2_73DD12901312.text = TYPE 48
+Label_D09F7E86_C066_141C_41E5_97AC6E19B513.text = Anggrek (6x12)
+Label_D1D5B643_C062_3414_411E_F7D7A29D2138.text = TYPE 48
+Label_D1D60643_C062_3414_41D1_4DD4E8FFCC59.text = Anggrek (6x12)
+Label_DB8D4CE3_C0FE_141B_41E4_6A7F4E686A97.text = MULAI
+Label_DCB48350_C365_147A_41DA_2F87066F78AA.text = MENUJU TIPE 55
+Label_E30A921E_C367_37E6_41D1_04AE40D1100E.text = MENUJU TIPE 48
+
+### Tab Panel
+TabPanelPage_E03CD8A0_C37F_34D9_41DD_8D623B5D338E.label = Lantai Atas
+TabPanelPage_E03F28A0_C37F_34D9_41E3_36119BEC6C2A.label = Lantai Dasar
+
+## Media
+
+### Title
+album_5BF33E9B_5485_9867_41C4_0BB7CE0FAF0D.label = Photo Album ANGGREK_T55_AGP
+album_5BF33E9B_5485_9867_41C4_0BB7CE0FAF0D_0.label = ANGGREK_T55_AGP
+album_5BF33E9B_5485_9867_41C4_0BB7CE0FAF0D_1.label = ANGGREK_T55_AGP_facade
+map_4992230E_5487_A861_41D4_09B8138A4A2A.label = DENAH 48
+map_E2F3D0EC_C367_142A_41BF_A579EFEEF839.label = LT2
+map_E53B7EBD_C367_2C2B_41B2_9EA2A8C48412.label = LT1
+panorama_0E4DB424_14DD_DA52_41B4_73D610DE4D5D.label = mainimage
+panorama_5DB40BFF_547E_BF9F_41D3_E41BF95F18C1.label = T55_360_V3
+panorama_5DB44028_547D_68A2_41D3_E7B477D939ED.label = MAIN GATE_AGP_360
+panorama_5DB4AB08_547D_7861_41C8_A2DA9B273742.label = T55_360_EXT
+panorama_5DB4C18B_547E_A867_41D0_B4F9B0588DAD.label = T55_360_V2
+panorama_5DB4E613_547D_6866_41C5_D0F6D15F7C8F.label = T55_360_V1
+panorama_5DB4E748_547E_A8E2_41A4_51FD39D9E689.label = T55_360_V4
+panorama_5DCBEBFB_547B_BFA7_41C9_24FA147C5562.label = LIVINGROOM
+panorama_5DD5B1C1_547B_ABE3_41CA_D2B5AEAEB579.label = MASTER BEDROOM 1
+panorama_5E5F5697_547B_A86E_4180_2D85268A8B14.label = BEDROOM.1
+panorama_5EA23445_547D_A8E2_41A4_E375FAB69BF3.label = BRIDGE_360
+panorama_AB5F0075_BB55_D357_41DF_918A6E952C20.label = Facade
+panorama_C9D4DC42_C2A3_2C59_41A4_5F8004DCD799.label = T48_KITCHEN
+photo_592FDFC3_548A_97E6_41C3_FAF6CF3C6DE2.label = ANGGREK_T48_AGP_facade
+photo_592FDFC3_548A_97E6_41C3_FAF6CF3C6DE2.label = ANGGREK_T48_AGP_facade
+photo_5A664D77_548A_98AF_41AF_91C798B4D2DF.label = ANGGREK_T48_AGP
+photo_5A664D77_548A_98AF_41AF_91C798B4D2DF.label = ANGGREK_T48_AGP
+video_2F3641D5_3E37_8E4E_41B4_38940C2F3316.label = tipe55fix
+video_32C8A0B1_3E37_8EC7_419A_79F396793044.label = pembukaan narator
+video_DA14648A_C2E3_1CE9_41E2_AB2FD8EFE3C5.label = cluster anggrek
+video_EB8B2CB7_C0A2_147C_41E6_DF51213B961E.label = MAINGATEFIX
+
+## Hotspot
+
+### URL
+overlay_D3394B41_C2A7_345A_41B6_D7A51D283C42.url = //www.youtube.com/embed/livXhmSXZjI?v=livXhmSXZjI
+
+## Action
+
+### URL
+LinkBehaviour_827966C8_C3BD_3C6B_41D2_3D2E282BA4DC.source = https://wa.me/6281290001718?text=Halo%20dengan%20Arco%20Green%20Park%3F
+LinkBehaviour_83CE6358_C3BF_1469_41D7_7903472289E9.source = https://wa.me/6281383577216?text=Halo%20dengan%20Arco%20Green%20Park%3F
+LinkBehaviour_87C952CF_C3BD_1467_41D3_A56FB2646CA1.source = https://wa.me/6285693685802?text=Halo%20dengan%20Arco%20Green%20Park%3F
+LinkBehaviour_D26B8C23_C06E_3414_41C5_183718BD5632.source = https://goo.gl/maps/Gt6yTcNF7qbkoi5e9
+LinkBehaviour_DDAF66E9_C2A7_3C2B_41C2_6EA3434CC71E.source = https://www.sisproperty.co.id/proyek/arco-green-park/
+PopupWebFrameBehaviour_D8485615_C2AC_FFFB_41E7_D4BE0BFAB395.url = https://www.sisproperty.co.id/proyek/arco-green-park/
